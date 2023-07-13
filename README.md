@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ### Hello and Welcome 👋, I'm Kunal Sharma
 
