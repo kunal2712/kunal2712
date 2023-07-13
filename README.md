@@ -9,8 +9,8 @@
 - ⚡ Motto: Keep striving for progress, not perfection
 
 ### 🗄️ Few of My Best Repositories
-- [CMS Crashes]((https://github.com/kunal2712/CMScrashes))
-- [Weather Forecast Site]((https://kunal2712.github.io/ ))
+- [CMS Crashes](https://github.com/kunal2712/CMScrashes)
+- [Weather Forecast Site](https://kunal2712.github.io/ )
 - [Land-Image Classification](https://github.com/kunal2712/landimage_classification)
 
 
