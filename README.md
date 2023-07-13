@@ -1,10 +1,10 @@
 
 ### Hello and Welcome 👋, I'm Kunal Sharma
 
-### I'm a Student, Developer, and Content Creator
-- 👨🏽‍🎓 I enjoy coding and helping others to learn coding
-- 📚 I'm constantly learning new skills and striving for progress
-- 🏆 Goal: Be the person I needed when I was younger
+### I'm a Student, tech enthusiast and life-long learner
+- 👨🏽‍🎓 I enjoy coding and fiddling with data to find insights
+- 📚 I'm constantly learning new technologies and striving for progress
+- 🏆 Goal: Be a contributor in the AI revolution 
 - ⚡ Motto: Keep striving for progress, not perfection
 
 ### 🗄️ Few of My Best Repositories
